@@ -131,13 +131,34 @@ Es gibt zwar viele Möglichkeiten, Entscheidungen zu beschreiben, die demokratis
 
 Ausgehend von den jüngsten Trends in der zunehmend gut erforschten Risikokapitalbranche, hat sich in den letzten zehn Jahren eine dramatische und überwältigende Konzentration von Risikokapital innerhalb des Hochtechnologiesektors auf künstliche Intelligenz und Kryptowährungs- beziehungsweise „Web3“-Technologien ergeben. Abbildung V zeigt Daten zu privaten Investitionen in künstliche Intelligenz, die von NetBase Quid gesammelt und vom Stanford Center for Human-Centered Artificial Intelligence im 2022 AI Index Report dargestellt wurden. Sie zeigen das explosive Wachstum im Laufe der 2010er Jahre, ein Wachstum, das mittlerweile die privaten Technologieinvestitionen dominiert. Abbildung W zeigt das Gleiche (über einen anderen Zeitraum und vierteljährlich) für den Web3-Bereich basierend auf Daten von Pitchbook, dargestellt von Galaxy Digital Research.
 
-Abbildung 2-0-C. Private Investitionen in KI in den letzten sieben Jahren. Quelle: NetBase Quid via 2023 AI Index Report
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/tech_vc_funding/vc_funding_ai.png" width="100%" alt="Figure showing the steady rise of AI venture capital investing even when there has been a recent decline in technology venture capital investing.">
 
-Abbildung 2-0-D. Zeitlicher Trend bei Krypto-VC-Deals und Investitionen. Quelle: National Venture Capital Association und Pitchbook
+**<figcaption>Abbildung 2-0-C. Private Investitionen in KI in den letzten sieben Jahren. Quelle: NetBase Quid via 2023 AI Index Report[^AIindex]</figcaption>**
+</figure>
+<br></br>
 
-Diese Prioritäten sind zwar relativ neu und scheinen sich aus der Logik des „Marktes“ zu ergeben, sie spiegeln jedoch eine viel länger dauernde und bewusst von der Gesellschaft getroffene Reihe von Entscheidungen wider. Sie ergeben sich aus den Investitionen, die Regierungen in demokratischen Ländern getätigt haben.
+[^AIindex]: Nestor Maslej, Loredana Fattorini, Erik Brynjolfsson, John Etchemendy, Katrina Ligett, Terah Lyons,  James Manyika, Helen Ngo, Juan Carlos Niebles, Vanessa Parli, Yoav Shoham, Russell Wald, Jack Clark, and Raymond Perrault, “The AI Index 2023 Annual Report,” AI Index Steering Committee,  Institute for Human-Centered AI, Stanford University, Stanford, CA, April 2023.
 
-Abbildung 2-0-E. Die relative Häufigkeit von „artificial intelligence“ in englischen Büchern 1950-2019. Quelle: Google Ngrams[^2-0-Ngrams]
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/tech_vc_funding/crypto_vc.png" width="100%" alt="Shows the somewhat uneven but clear rise of funding and deal count in the crypto space by venture capitalists 2016-2021">
+
+**<figcaption>Abbildung 2-0-D. Zeitlicher Trend bei Krypto-VC-Deals und Investitionen. Quelle: National Venture Capital Association und Pitchbook[^Pitchbook] </figcaption>**
+</figure>
+<br></br>
+
+[^Pitchbook]: Pitchbook, "Crypto Report" Q4 2023 at https://pitchbook.com/news/reports/q4-2023-crypto-report.
+
+Diese Prioritäten sind zwar relativ neu und scheinen sich aus der Logik des „Marktes“ zu ergeben, sie spiegeln jedoch eine viel länger dauernde und bewusst von der Gesellschaft getroffene Reihe von Entscheidungen wider. Sie ergeben sich aus den Investitionen, die Regierungen in demokratischen Ländern getätigt haben[^GartnerReport].
+
+<figure>
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/data/ai_ngrams/ai_ngrams.png" width="100%" alt='Shows the relative frequency in English books of "artificial intelligence" from 1950-2019 showing a surge in the late 1980s followed by a retreat and then a much greater surge beginning in the mid-2010s.'>
+
+**<figcaption>Abbildung 2-0-E. Die relative Häufigkeit von „artificial intelligence“ in englischen Büchern 1950-2019. Quelle: Google Ngrams[^Ngrams]</figcaption>**
+</figure>
+<br></br>
+
+[^ngrams]: Derived from Google Ngrams viewer at https://books.google.com/ngrams.
 
 Bei diesen Investitionen handelt es sich nicht nur um Entscheidungen, die auch anders hätten getroffen werden können; sie sind noch nicht lange her und wurden zuvor ganz anders getroffen. Diese Investitionen spiegeln sich in den prägenden Technologien der letzten Jahrzehnte wider. Künstliche Intelligenz wurde während eines Großteils der 1980er Jahre als kommende Revolution verkündet, wie die Abbildung von Google Ngram Viewer zeigt, die die relative Häufigkeit dieses Begriffs in englischen Büchern darstellt. Die 1980er Jahre waren jedoch von einer ganz anderen Technologie geprägt: dem Personal Computer, der nun neu den Computer zu einer Ergänzung der individuellen menschlichen Kreativität machte. Die 1990er Jahre waren von Stephensons Science-Fiction-Fantasien über die Möglichkeiten eskapistischer virtueller Welten und atomisierender Kryptografie geprägt, während das Bindegewebe des Internets die Welt eroberte und ein nie dagewesenes Zeitalter der Kommunikation und Kooperation einläutete. Die Mobiltelefonie in den 2000er Jahren, die sozialen Netzwerke in den 2010er Jahren und der Ausbau der Homeoffice-Möglichkeiten in den 2020er Jahren – all dies konzentrierte sich weder auf kryptografischen Hyperkapitalismus noch auf künstliche Superintelligenz.
 
