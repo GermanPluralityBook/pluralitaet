@@ -160,7 +160,7 @@ Diese Prioritäten sind zwar relativ neu und scheinen sich aus der Logik des „
 </figure>
 <br></br>
 
-[^ngrams]: Derived from Google Ngrams viewer at https://books.google.com/ngrams.
+[^ngrams]: Quelle: Google Ngrams viewer unter https://books.google.com/ngrams.
 
 Bei diesen Investitionen handelt es sich nicht nur um Entscheidungen, die auch anders hätten getroffen werden können; sie sind noch nicht lange her und wurden zuvor ganz anders getroffen. Diese Investitionen spiegeln sich in den prägenden Technologien der letzten Jahrzehnte wider. Künstliche Intelligenz wurde während eines Großteils der 1980er Jahre als kommende Revolution verkündet, wie die Abbildung von Google Ngram Viewer zeigt, die die relative Häufigkeit dieses Begriffs in englischen Büchern darstellt. Die 1980er Jahre waren jedoch von einer ganz anderen Technologie geprägt: dem Personal Computer, der nun neu den Computer zu einer Ergänzung der individuellen menschlichen Kreativität machte. Die 1990er Jahre waren von Stephensons Science-Fiction-Fantasien über die Möglichkeiten eskapistischer virtueller Welten und atomisierender Kryptografie geprägt, während das Bindegewebe des Internets die Welt eroberte und ein nie dagewesenes Zeitalter der Kommunikation und Kooperation einläutete. Die Mobiltelefonie in den 2000er Jahren, die sozialen Netzwerke in den 2010er Jahren und der Ausbau der Homeoffice-Möglichkeiten in den 2020er Jahren – all dies konzentrierte sich weder auf kryptografischen Hyperkapitalismus noch auf künstliche Superintelligenz.
 
@@ -188,7 +188,7 @@ Die erste und am häufigsten geäußerte Vision der technologischen Zukunft dreh
 
 AT konzentriert sich auf das Potenzial der KI, das zu schaffen, was OpenAI-Gründer Sam Altman als “[Moore’s Law for Everything](https://moores.samaltman.com/)” bezeichnet: eine Transformation, bei der KI alle materiellen Güter billig und im Überfluss verfügbar macht und so die Abschaffung der materiellen Knappheit ermöglicht, zumindest im Prinzip[^Moore]. Doch dieser potenzielle Überfluss ist möglicherweise nicht gleichmäßig verteilt; es ist plausibel, dass sich sein Wert auf eine kleine Gruppe konzentriert, die KI-Systeme kontrolliert und steuert.
 
-[^Moore]: Sam Altman, "Moore's Law for Everything", March 16, 2021 https://moores.samaltman.com/.
+[^Moore]: Sam Altman, "Moore's Law for Everything", 16. März 2021 https://moores.samaltman.com/.
 
 Ein Schlüsselelement der sozialen Vision von AT ist daher die materielle Umverteilung, in der Regel durch ein „universelles Grundeinkommen“ (UBI – Universal Basic Income). Ein weiterer zentraler Punkt ist das Risiko, dass KI-Systeme der menschlichen Kontrolle entgleiten und das menschliche Überleben bedrohen, und damit die Notwendigkeit einer starken und oft zentralisierten Kontrolle darüber, wer Zugang zu diesen Technologien hat, sowie die Sicherstellung, dass sie so gebaut sind, dass sie menschliche Wünsche zuverlässig erfüllen.
 
