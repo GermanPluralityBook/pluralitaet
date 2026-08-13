@@ -79,7 +79,7 @@ Das vielleicht deutlichste quantitative Zeichen für dieses abnehmende proaktive
 </figure>
 <br></br>
 
-[^FedR+D]: Gary Anderson and Francisco Moris, "Federally Funded R&D Declines as a Share of GDP and Total R&D", *National Center for Science and Engineering Statistics* NSF 23-339 (Alexandria, VA: National Science Foundation, 2023) available at  https://ncses.nsf.gov/pubs/nsf23339/.
+[^FedR+D]: Gary Anderson and Francisco Moris, "Federally Funded R&D Declines as a Share of GDP and Total R&D", *National Center for Science and Engineering Statistics* NSF 23-339 (Alexandria, VA: National Science Foundation, 2023) verfügbar unter  https://ncses.nsf.gov/pubs/nsf23339/. [Für vergleichbare deutsche Daten siehe: BMBF, Bundesbericht Forschung und Innovation 2024]
 
 Abgesehen von dieser quantitativen Entwicklung war der qualitative Rückgang der öffentlichen Unterstützung mindestens ebenso dramatisch. Während der öffentliche Sektor einst bei der Entwicklung des Internets (in den Vereinigten Staaten), der Grundlagen des Personal Computers und ähnlicher Projekte in anderen demokratischen Ländern (z. B. [Frankreichs Minitel](https://mitpress.mit.edu/9780262537759/minitel/)) die Führung übernahm, werden heute fast alle wichtigen IT-Durchbrüche vom privaten Sektor vorangetrieben.[^PublicInterestTech] 
 
